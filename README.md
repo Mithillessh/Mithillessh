@@ -17,10 +17,10 @@ Based in Dublin, Ireland · Open to data, AI and business-systems roles
 
 ## Skills
 
-**Languages and tools:** Python, SQL, PySpark, Bash, Git
-**Data and ML:** scikit-learn, XGBoost, PyTorch, Keras, SHAP, time series, A/B and statistical testing
-**BI and systems:** Tableau, Power BI, HubSpot CRM, workflow automation, API and ETL pipelines, MySQL, PostgreSQL, MongoDB
+- **Languages and tools:** Python, SQL, PySpark, Bash, Git
+- **Data and ML:** scikit-learn, XGBoost, PyTorch, Keras, SHAP, time series, statistical testing
+- **BI and systems:** Tableau, Power BI, HubSpot CRM, workflow automation, API and ETL pipelines, MySQL, PostgreSQL, MongoDB
 
 ## Contact
 
-📧 mithillessh07@gmail.com
+Email: mithillessh07@gmail.com
